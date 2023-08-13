@@ -5,7 +5,7 @@ The course is instructed in Persian (Farsi) language.
 
 All course materials (Slides, Jupyter Notebooks, Theory and Practical Assignments, Projects, etc.) are freely available under Creative Commons BY license.
 
-Co-instructors: Behrooz Azarkhalili, Ali Sharifi-Zarchi
+Co-instructors: Behrooz Azarkhalili, Ali Sharifi-Zarchi, SayedAli Nourian Najafabadi
 
 ## Copyright Notice
 All materials are provided under Creative-Commons BY license. 
